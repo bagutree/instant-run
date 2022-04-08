@@ -1,0 +1,14 @@
+<idea-plugin>
+    <id>com.github.ibaozi.instantrun</id>
+    <name>instant-run</name>
+    <vendor>ibaozi</vendor>
+
+    <!-- Product and plugin compatibility requirements -->
+    <!-- https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
+    <depends>org.jetbrains.android</depends>
+    <depends>com.intellij.modules.androidstudio</depends>
+
+    <extensions defaultExtensionNs="com.android.tools.idea.wizard.template">
+<!--        <wizardTemplateProvider implementation="other.WizardTemplateProviderImpl" />-->
+    </extensions>
+</idea-plugin>

@@ -1,0 +1,6 @@
+rootProject.name = "InstantRun"
+include ':app'
+include ':example'
+includeBuild 'plugin-gradle'
+includeBuild 'file-watch'
+includeBuild 'plugin-studio'
