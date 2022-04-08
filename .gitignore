@@ -88,3 +88,9 @@ lint/tmp/
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/inspectionProfiles/Project_Default.xml
+file-watch/.DS_Store
+instant-run/.DS_Store
+plugin-gradle/plugin/src/.DS_Store
+plugin-gradle/plugin/src/main/.DS_Store
+plugin-gradle/plugin/src/main/java/.DS_Store
+plugin-studio/.DS_Store
